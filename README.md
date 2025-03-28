@@ -15,11 +15,11 @@ A powerful **network security tool** that scans open ports, checks running servi
 git clone https://github.com/ded-harsh/SpyNetScanner.git
 cd SpyNetScanner
 ```
-###2️⃣ Run the Script
+### 2️⃣ Run the Script
 ```bash
 python network_scan.py
 ```
-###3️⃣ Check the Log File
+### 3️⃣ Check the Log File
 A log file (spynetscanner_YYYY-MM-DD_HH-MM-SS.log) will be created in the same directory, containing all scan details.
 
 Example Output 📜
