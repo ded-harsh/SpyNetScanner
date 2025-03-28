@@ -1,4 +1,4 @@
-# SpyNetScanner 🚀  
+# SpyNetScanner 🕵️‍♂️🚀  
 A powerful **network security tool** that scans open ports, checks running services, monitors active network connections, and logs suspicious external IPs.  
 
 ## Features 🔍  
@@ -12,5 +12,5 @@ A powerful **network security tool** that scans open ports, checks running servi
 ## Installation & Usage 🛠  
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/ded-harsh/NetScanAnalyzer.git
-cd NetScanAnalyzer
+git clone https://github.com/ded-harsh/SpyNetScanner.git
+cd SpyNetScanner
