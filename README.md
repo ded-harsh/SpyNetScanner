@@ -14,19 +14,16 @@ A powerful **network security tool** that scans open ports, checks running servi
 ```bash
 git clone https://github.com/ded-harsh/SpyNetScanner.git
 cd SpyNetScanner
-
-2️⃣ Run the Script
-bash
-Copy
-Edit
+```
+###2️⃣ Run the Script
+```bash
 python network_scan.py
-3️⃣ Check the Log File
+```
+###3️⃣ Check the Log File
 A log file (spynetscanner_YYYY-MM-DD_HH-MM-SS.log) will be created in the same directory, containing all scan details.
 
 Example Output 📜
-kotlin
-Copy
-Edit
+```kotlin
 [+] Scanning for open ports...
 [*] Port 80 is open
 [*] Port 443 is open
@@ -38,11 +35,13 @@ TCP    192.168.1.9:52546    23.54.83.201:443    ESTABLISHED    10192
 [!] Potential suspicious external IPs detected:
  - 4.213.25.241
  - 163.70.138.61
-Disclaimer ⚠️
+
+```
+### Disclaimer ⚠️
 This tool is for educational and security research purposes only. Do not use it on unauthorized networks.
 
-Contributing 🤝
+### Contributing 🤝
 Feel free to fork this repo and submit pull requests!
 
-License 📜
+### License 📜
 MIT License – Free to use and modify.
